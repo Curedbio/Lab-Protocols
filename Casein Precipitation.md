@@ -15,7 +15,7 @@ are protonated), and the neutral protein precipitates.
 ⋅⋅* Centrifuge X-rpm
 ⋅⋅* Milk
 ⋅⋅* Acid (dilution, pH), vinegar/lemon; 0.2N HCl (50ml)
-⋅⋅* 1.5 mL microcentrifuge tubs
+⋅⋅*  1.5 mL microcentrifuge tubs
 ⋅⋅* Raw milk - 100ml
 ⋅⋅* 0.2N HCl - 50ml
 ⋅⋅* Diethyl ether - 50ml
