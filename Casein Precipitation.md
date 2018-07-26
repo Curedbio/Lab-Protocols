@@ -1,3 +1,4 @@
+# Casein Precipitation
 ## Introduction
 Milk is an emulsion or colloid of butterfat globules within a water-based fluid that contains dissolved carbohydrates and protein
 aggregates with minerals. Normal bovine milk contains 30–35 grams of protein per liter. There are four different types of casein
