@@ -13,15 +13,19 @@ During the addition of acid to milk, the negative charges on the outer surface o
 are protonated), and the neutral protein precipitates.   
 
 ## Reagents
-· Centrifuge X-rpm   
-· Milk  
-· Acid (dilution, pH), vinegar/lemon; 0.2N HCl (50ml)  
+### DIY
+· Centrifuge    
+· Raw milk - 100ml  
+· Vinegar or lemon juice - 50ml  
 · 1.5 mL microcentrifuge tubs  
+
+### Lab
 · Raw milk - 100ml  
 · 0.2N HCl - 50ml  
 · Diethyl ether - 50ml  
 · 50% Ethanol - 50ml  
 · Whatman No 1 filter paper strip (Size 25×50mm) - 2 no.  
+· 1.5 mL microcentrifuge tubs  
 
 ## Protocol
 ### DIY
