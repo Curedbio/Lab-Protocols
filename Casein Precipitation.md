@@ -12,7 +12,7 @@ During the addition of acid to milk, the negative charges on the outer surface o
 are protonated), and the neutral protein precipitates.  
 
 ## Reagents
-⋅⋅* Centrifuge X-rpm
+⋅⋅* Centrifuge X-rpm  
 ⋅⋅* Milk
 ⋅⋅* Acid (dilution, pH), vinegar/lemon; 0.2N HCl (50ml)
 ⋅⋅*  1.5 mL microcentrifuge tubs
@@ -36,7 +36,7 @@ are protonated), and the neutral protein precipitates.
 and lipids from the mixture.
 3. After centrifugation, carefully remove the fats and lipids from the surface of the milk with a spatula.
 4. Then transfer the milk from all the tubes into a beaker and add equal volume of distilled water and stir well. Now check the pH.
-5. Start adding 0.2N HCl drop by drop into the milk mixture and stir well.
+5. Start adding 0.2N HCl drop by drop into the milk mixture and stir well.  
 **Note:** The PH at which precipitation (white curdy substances) appears. The pH should be 4.6.
 6. Take the curdy precipitate and allow it to sediment.
 7. Now decant the supernatant using a filter paper and funnel and wash the precipitate with distilled water to remove the salts, 
