@@ -1,6 +1,6 @@
 ## Introduction
 Milk is an emulsion or colloid of butterfat globules within a water-based fluid that contains dissolved carbohydrates and protein
-aggregates with minerals. Normal bovine milk contains 30–35 grams of protein per liter. There are four different types of casein  
+aggregates with minerals. Normal bovine milk contains 30–35 grams of protein per liter. There are four different types of casein
 proteins: αs1-, αs2-, β-, and κ-caseins of which about 80% is arranged in casein micelles, being the k-casein the outermost layer.   
 These kappa-casein molecules all have a negative electrical charge and therefore repel each other, keeping the micelles separated  
 under normal conditions and in a stable colloidal suspension in the water-based surrounding fluid.  
