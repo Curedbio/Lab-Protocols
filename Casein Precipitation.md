@@ -9,7 +9,7 @@ The pH of milk ranges from 6.4 to 6.8 and it changes over time. Milk from other 
 composition but has a similar pH. That pH value is known as the isoelectric point (IEP) of the protein and is generally the pH at
 which the protein is least soluble. For casein, the IEP is approximately 4.6 and it is the pH value at which acid casein is  
 precipitated. In milk, which has a pH of about [6.4-6.8], the casein micelles have a net negative charge and are quite stable.  
-During the addition of acid to milk, the negative charges on the outer surface of the micelle are neutralized (the phosphate groups  
+During the addition of acid to milk, the negative charges on the outer surface of the micelle are neutralized (the phosphate groups
 are protonated), and the neutral protein precipitates.   
 
 ## Reagents
