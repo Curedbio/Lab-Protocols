@@ -33,7 +33,7 @@ are protonated), and the neutral protein precipitates.
 2. Add 500uL of acid intro 1.5 mL microcentrifuge tub.
 3. Mix by invertion. 
 4. Centrifuge 1500 rpm @ 3 minutes, at room temperature
-5. Discard supertant. The white precipitate are the milk proteins, 80% casein.
+5. Discard supertant. The white precipitate are, mainly, the milk proteins (80% casein).
 
 ### Lab
 1. Measure 100ml of milk in a measuring cylinder and transfer 25ml of milk to four Oakridge centrifuge tubes each.
