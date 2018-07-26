@@ -17,7 +17,8 @@ are protonated), and the neutral protein precipitates.
 ### DIY
 · Centrifuge    
 · Raw milk - 100ml  
-· Vinegar or lemon juice - 50ml  
+· Vinegar or lemon juice - 10ml, dilluted with destilled water (pH must be ~4.6)  
+*Note* : [Vinegar Dilution Calculator] (http://www.wolframalpha.com/widgets/view.jsp?id=128c18bbe1cea2a46471f9d963f51e29), from Wolfram Alpha. (1:10,000)
 · 1.5 mL microcentrifuge tubs  
 
 ### Lab
