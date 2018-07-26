@@ -4,6 +4,7 @@ aggregates with minerals. Normal bovine milk contains 30–35 grams of protein p
 proteins: αs1-, αs2-, β-, and κ-caseins of which about 80% is arranged in casein micelles, being the k-casein the outermost layer.   
 These kappa-casein molecules all have a negative electrical charge and therefore repel each other, keeping the micelles separated
 under normal conditions and in a stable colloidal suspension in the water-based surrounding fluid.  
+
 The pH of milk ranges from 6.4 to 6.8 and it changes over time. Milk from other bovines and non-bovine mammals varies in  
 composition but has a similar pH. That pH value is known as the isoelectric point (IEP) of the protein and is generally the pH at
 which the protein is least soluble. For casein, the IEP is approximately 4.6 and it is the pH value at which acid casein is  
