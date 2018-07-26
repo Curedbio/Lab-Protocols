@@ -12,15 +12,15 @@ During the addition of acid to milk, the negative charges on the outer surface o
 are protonated), and the neutral protein precipitates.  
 
 ## Reagents
-⋅⋅* Centrifuge X-rpm  
-⋅⋅* Milk 
-⋅⋅* Acid (dilution, pH), vinegar/lemon; 0.2N HCl (50ml) 
-⋅⋅*  1.5 mL microcentrifuge tubs 
-⋅⋅* Raw milk - 100ml 
-⋅⋅* 0.2N HCl - 50ml 
-⋅⋅* Diethyl ether - 50ml 
-⋅⋅* 50% Ethanol - 50ml 
-⋅⋅* Whatman No 1 filter paper strip (Size 25×50mm) - 2 no. 
+⋅⋅* Centrifuge X-rpm   
+⋅⋅* Milk  
+⋅⋅* Acid (dilution, pH), vinegar/lemon; 0.2N HCl (50ml)  
+⋅⋅*  1.5 mL microcentrifuge tubs  
+⋅⋅* Raw milk - 100ml  
+⋅⋅* 0.2N HCl - 50ml  
+⋅⋅* Diethyl ether - 50ml  
+⋅⋅* 50% Ethanol - 50ml  
+⋅⋅* Whatman No 1 filter paper strip (Size 25×50mm) - 2 no.  
 
 ## Protocol
 ### DIY
@@ -30,13 +30,12 @@ are protonated), and the neutral protein precipitates.
 4. Discard supertant. The white precipitate are the milk proteins, 80% casein.
 
 ### Lab
-
 1. Measure 100ml of milk in a measuring cylinder and transfer 25ml of milk to four Oakridge centrifuge tubes each.
 2. Centrifuge the milk in a centrifuge at 4000rpm at room temperature (25- 30o C) for 20 minutes. This is done to remove the fats 
 and lipids from the mixture.
 3. After centrifugation, carefully remove the fats and lipids from the surface of the milk with a spatula.
 4. Then transfer the milk from all the tubes into a beaker and add equal volume of distilled water and stir well. Now check the pH.
-5. Start adding 0.2N HCl drop by drop into the milk mixture and stir well. 
+5. Start adding 0.2N HCl drop by drop into the milk mixture and stir well.  
 **Note:** The PH at which precipitation (white curdy substances) appears. The pH should be 4.6.
 6. Take the curdy precipitate and allow it to sediment.
 7. Now decant the supernatant using a filter paper and funnel and wash the precipitate with distilled water to remove the salts, 
